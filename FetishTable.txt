@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+	<thead colspan style="font-size:3px">
+	    <th>Weird Fetishes</th>
+	</thead>
+	<tr>
+	<td>
+	<a href="http://littleab.com/"><img src="http://abcnews.go.com/images/Health/ht_stanley_thornton_jr_baby_ll_111020_wblog.jpg"/></a>
+	</td>
+	<td>
+	<a href="http://www.pornhub.com/view_video.php?viewkey=ph5582a508e314d"><img src="http://allchristiannews.com/wp-content/uploads/2015/04/swingers1.jpg"/></a>
+	</td>
+	<td>
+	<a href="http://www.shedoesthecity.com/pee_on_me_my_first_golden_shower"><img src="https://cockyandrude.files.wordpress.com/2011/03/watersports011409.jpg"/></a>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<a href="http://www.huffingtonpost.com/terri-lee-ryan/how-to-tell-your-wife-you_b_7292520.html"><img src="http://www.coolest-homemade-costumes.com/images/funny-halloween-costumes-02.jpg"/></a>
+	</td>
+	<td>
+	<a href="http://www.pornhub.com/video/search?search=foot+worship"><img src="http://knoworthy.s3.amazonaws.com/wp-content/uploads/2013/09/foot-fetish.jpg"/></a>
+	</td>
+	<td>
+	<a href="http://www.yourtango.com/20086453/spanking-for-beginners"><img src="https://d.gr-assets.com/hostedimages/1423847461ra/13681932.gif"/></a>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<a href="http://www.psychologistanywhereanytime.com/sexual_problems_pyschologist/psychologist_voyeurism.htm"><img src="http://www.minddisorders.com/photos/voyeurism-835.jpg"/></a>
+	</td>
+	<td>
+	<a href="https://www.psychologytoday.com/conditions/exhibitionism"><img src="http://2.bp.blogspot.com/-Kz9yptCmiqw/VhPWLDiHrlI/AAAAAAAAc7Q/WCTTk9Pcf_4/s1600/615x200-ehow-images-a02-8u-mu-cope-spouses-exhibitionism-800x800.jpg"/></a>
+	</td>
+	<td>
+	<a href="http://www.mr-s-leather.com/area/21/latex-rubber-all.html"><img src="https://s-media-cache-ak0.pinimg.com/236x/8c/17/51/8c17516672330669a541003e7d476021.jpg"/></a>
+	</td>
+	</tr>
+	</table>
+	</body>
+</html>
