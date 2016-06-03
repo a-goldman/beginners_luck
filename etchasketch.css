@@ -1,0 +1,54 @@
+body {
+	background-color: #b30000;
+}
+
+h1 {
+	text-align: center;
+	color:#ffa31a;
+	font-family: Georgia;
+	font-style: italic;
+}
+
+.container {
+	height: 500px;
+	width: 500px;
+	background-color: grey;
+	position: fixed;
+	top: 25%;
+	left: 40%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
+.box {
+	height: 27px;
+	width: 27px;
+	background-color: grey;
+	border: none;
+  	display: inline-block;
+}
+
+button {
+	border: none;
+	border-radius: 50px;
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	font-size: 20px;
+	font-weight: bold;
+	color:#ffa31a;
+	font-family: Georgia;
+	font-style: italic;
+	margin-top: 570px;
+	
+}
+
+#left {
+	float: left;
+	margin-left: 390px;
+}
+
+#right {
+	float: right;
+	margin-right: 380px;
+}
